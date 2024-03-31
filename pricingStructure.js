@@ -1,0 +1,5 @@
+const pricingStructure={
+    
+}
+
+export { pricingStructure };
